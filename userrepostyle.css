@@ -1,0 +1,29 @@
+.user_repo_section{
+  width: 30%;
+  height: 100%;
+  float:left;
+  margin: 2px;
+}
+
+ul{
+  list-style-type: none;
+  padding-left : 5px;
+}
+
+.section_item{
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin: 5px;
+  padding: 10px;
+}
+
+.repo_heading{
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.repo_1{
+  font-size:16px;
+  font-weight:bold;
+  color:blue;
+}

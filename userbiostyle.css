@@ -1,0 +1,18 @@
+.user_bio_section{
+  width: 30%;
+  height: 100%;
+  float:left;
+  margin: 2px;
+}
+
+.section_item{
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin: 5px;
+  padding: 10px;
+}
+
+.img_class{
+  height: 75%;
+  width: 75%;
+}

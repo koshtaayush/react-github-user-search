@@ -1,0 +1,36 @@
+.user_follower_section{
+  width: 30%;
+  height: 100%;
+  float:left;
+  margin: 2px;
+}
+
+.section_item{
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin: 5px;
+  padding: 10px;
+}
+
+.followers_heading{
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+ul{
+  list-style-type: none;
+  padding-left : 5px;
+}
+
+.flw_img{
+  height:10%;
+  width: 10%;
+}
+
+.flw_1{
+  float: right; 
+  font-size: 16px;
+  font-weight: bold;
+  color: blue;
+  width: 75%;
+}

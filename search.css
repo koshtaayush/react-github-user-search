@@ -1,0 +1,17 @@
+.form-control{
+  width: 50%;
+  float:left;
+  margin: 5px;
+  margin-left: 10%;
+}
+
+.btn-primary{
+  margin: 5px;
+  height: 34px;
+}
+
+.navbar-inverse{
+  margin-bottom: 0px;
+  border-radius: 0px;
+  border: none;
+}
